@@ -1,6 +1,7 @@
 # starting
 its my first git repository
 <br>
-author-Satyam Gurav
+author-
 <br>
-heyy it's me..
+Satyam G
+
